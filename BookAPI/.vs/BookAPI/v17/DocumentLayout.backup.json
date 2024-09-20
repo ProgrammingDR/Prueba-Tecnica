@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|c:\\users\\darwi\\onedrive\\escritorio\\prueba tecnica\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|c:\\users\\darwi\\onedrive\\escritorio\\prueba tecnica\\bookapi\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|c:\\users\\darwi\\onedrive\\escritorio\\prueba tecnica\\bookapi\\bookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|c:\\users\\darwi\\onedrive\\escritorio\\prueba tecnica\\bookapi\\bookapi\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|c:\\users\\darwi\\onedrive\\escritorio\\prueba tecnica\\bookapi\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB843E3-51C9-47C2-94BD-F9114989AADA}|BookAPI\\BookAPI.csproj|solutionrelative:bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Program.cs",
+              "RelativeToolTip": "BookAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:11:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:11:06.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "BookAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:07:52.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "BookAPI\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:04:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Darwi\\OneDrive\\Escritorio\\Prueba Tecnica\\BookAPI\\BookAPI\\Models\\Book.cs",
+              "RelativeToolTip": "BookAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:03:38.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
